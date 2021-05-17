@@ -28,7 +28,6 @@ N/A
 # Questions
 For any questions please contact, [Github](https://github.com/Kimsabraham)  kimsabraham@gmail.com.
 
-Video Demo: https://drive.google.com/file/d/1h1zlJxkUXF31i0vqbtGT1cjGTKvJjeDK/view (please rememebr to switch video quality to HD)
+Video Demo: https://drive.google.com/file/d/1zcPydeMtUv7nYZr_-YVTbyMGUxWbuW5F/view (please rememebr to switch video quality to HD)
 
-Github Repo: https://github.com/Kimsabraham/ReadmeGenerator
-
+Github Repo: https://github.com/Kimsabraham/E-CommerceBackEnd
